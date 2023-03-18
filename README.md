@@ -2,7 +2,7 @@
 ****
 
 - 🌱 Atualmente estudando **HTML, CSS e JavaScript**
-- :computer: Também tenho muito interesse em aprender mais o **Python**
+- :computer: Também tenho interesse em estudar mais sobre **Python**
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: estou sempre procurando algo para aprender
 
